@@ -1,51 +1,43 @@
-# ACSL Webpage
+# MPIL GitHub Webpage (with Jekyll)
 
-## Development Environment (Mac)
-!!For M1 users, refer to [this blog](https://unluckyjung.github.io/develop-setting/2021/01/20/Mac-Jekyll-Setting/)
+
+## Development Environment (Windows 11)
+Refer to [this blog](https://present4n6.tistory.com/7), [this blog](https://balabala.tistory.com/75), and [this blog](https://myung-ho.tistory.com/89)
+
+
 ### Install Ruby
-macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.
+Install Ruby first WITH DEVKIT (for Windows).
+For now, I have installed Ruby+Devkit 3.2.2-1 (x64).
 
-If your mac is not equipped with Ruby, then follow the below steps.
-First, you need to install Xcode.
+Check Ruby version in cmd:
 ```bash
-xcode-select --install
+# check Ruby version
+D:\github_local_repository\mpil-gist.github.io>ruby -v
+# ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x64-mingw-ucrt]
+
+# check RubyGems version
+D:\github_local_repository\mpil-gist.github.io>gem -v
+# 3.4.10
 ```
 
-Next, install Homebrew to install Ruby
-```bash
-# installing Homebrew
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-brew install ruby
-
-# add Ruby to the system path
-echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
-
-# check the installation of ruby
-which ruby
-# /usr/local/opt/ruby/bin/ruby
-
-ruby -v
-# ruby 2.6.3p62 (2019-04-16 revision 67580)
-```
 
 ### Install Jekyll
 Simply run the following
 ```bash
-gem install --user-install bundler jekyll
+gem install bundler jekyll
 ```
 
-Then, append your path file with the following, replacing the X.X with the first two digits of your Ruby version (ruby -v):
+Check jekyll and bundler version in cmd:
 ```bash
-# If you're using Zsh
-echo 'export PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH"' >> ~/.zshrc
+# check jekyll version
+D:\github_local_repository\mpil-gist.github.io>jekyll -v
+# jekyll 4.3.2
 
-# If you're using Bash
-echo 'export PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH"' >> ~/.bash_profile
-
-# Unsure which shell you are using? Type
-echo $SHELL
+# check bundler version
+D:\github_local_repository\mpil-gist.github.io>bundler -v
+# Bundler version 2.4.19
 ```
+
 
 ## Running a Server
 You can run a local server as follows:
