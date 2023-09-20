@@ -11,7 +11,7 @@ category: Faculty
 
 Assistant Professor <br/>
 [School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
-[Gwangju Institue of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
+[Gwangju Institute of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
 
 <br/>
 
@@ -26,7 +26,7 @@ Assistant Professor <br/>
 
 
 ## Academic Experience
-> ###### Assistant Professor, Gwangju Institue of Science and Technology, 2023 -- Present
+> ###### Assistant Professor, Gwangju Institute of Science and Technology, 2023 -- Present
 > ###### Assistant Professor, Sookmyung Women’s Univ., Seoul, South Korea, 2020 -- 2023
 > ###### Postdoctoral Fellow, Simon Fraser University, Burnaby, BC, Canada, 2019 -- 2020
 > ###### Graduate Student Intern, Google, Mountain View, CA, US, 2018 -- 2018

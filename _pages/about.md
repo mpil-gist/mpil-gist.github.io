@@ -19,10 +19,16 @@ social: true  # includes social icons at the bottom of the page
 
 **Welcome to MPIL!** MPIL is located at S1-215, [School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, South Korea.
 
-We design and build autonomous computing systems to make human lives better (AI for X).
-Currently, we are focusing on
-1. ***Intelligent Interaction Systems***, which are essential to receive human messages, understand human intentions and infer proper services for humans, and
-2. ***Semantic and Geometric Understanding of Environments***, which are essential to implement customized services.
+
+Our research and education mainly focus on 3D computer vision with a particular focus on geometric aspects.
+Our goal is to give the capability to a computer system (e.g., robots, autonomous vehicles, and drones) for understanding and interpreting data in a manner that is similar to the way humans use their senses to relate to the world around them.
+To achieve this goal, we focus on the processing and analysis of various sensory data such as image, video, point cloud, acceleration, etc.
+Our primary research lines are the following:
+1. ***3D Computer Vision for Spatial Computing***
+2. ***Urban Scene Understanding***
+3. ***Visual-Inertial Odometry with Sensor Fusion***
+4. ***Deep Learning for Visual Navigation***
+
 
 For more details, refer to our <br/>
 - research statement ([English](blog/2021/research-eng/)),
