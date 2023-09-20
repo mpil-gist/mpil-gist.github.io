@@ -1,5 +1,6 @@
 # MPIL GitHub Webpage (with Jekyll)
 
+<img width="1399" alt="mpil_logo_full_name" src="https://github.com/mpil-gist/mpil-gist.github.io/assets/145361361/f18e39d3-5d80-4b1c-9019-ee40eda9bf61">
 
 ## Development Environment (Windows 11)
 Refer to [this blog](https://present4n6.tistory.com/7), [this blog](https://balabala.tistory.com/75), and [this blog](https://myung-ho.tistory.com/89)
