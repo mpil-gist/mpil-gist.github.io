@@ -22,6 +22,7 @@ order: 1
     {% endfor %}
     <h2 class="category">Alumni</h2>
       <ul>
-        <li><a href="https://curie3170.github.io/" target="_blank">Curie Kim</a> (Research Staff, 2022-2023) → Ph.D. Course@University of Maryland</li>
+        <li>Hyunjin Kim (M.S., 2021-2023)</li>
+        <li>Eunju Jeong (M.S., 2021-2023) → currently at Koh Young Technology</li>
       </ul>
 </div>
