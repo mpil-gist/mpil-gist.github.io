@@ -1,24 +1,30 @@
 ---
 layout: post
 title:  Open Positions (ENG)
-date:   2023-03-01
-description: Information for Joining ACSL
+date:   2023-09-21
+description: Information for Joining MPIL at GIST
 ---
 
-This article covers information that will help you join our lab. If you are interested in our lab, please refer to the article below and contact me via e-mail (uehwan@gist.ac.kr). Questions beyond the information provided in this article are always welcome.
+This article covers information that will help you join our lab.
+If you are interested in our lab, please refer to the article below and contact me via e-mail.
+Questions beyond the information provided in this article are always welcome.
 
 ---
 
 ## Number of Openings
-Our laboratory recruits around 3 new members every year through [AI graduate school](https://ai.gist.ac.kr/ai/), [future automobile manpower training degree course](http://yonseiscd.web4in1.com/) and [intelligent motor track](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-gist%EC%99%80-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84-%EA%B3%BC%EC%A0%95-%ED%98%91%EB%A0%A5-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%84%B0-%EA%B0%9C). We recruit students for Ph.D./Integrated/Master's programs. However, there are not many openings for the Master's program, and only those who are expected to achieve meaningful research outcomes during the Master's program are recruited. This is to let M.S. students gain meaningful research experience in our laboratory and it is also helpful for their careers.
+Our lab recruits students for Ph.D./Integrated/Master's programs.
+However, there are not many openings for the Master's program, and only those who are expected to achieve meaningful research outcomes during the Master's program are recruited.
+This is to let M.S. students gain meaningful research experience in our laboratory and it is also helpful for their careers.
 
-*For research interns, the number of openings is flexible (see below).<br/>
+
+*For undergraduate research interns, the number of openings is flexible (see below).<br/>
 *For postdoctoral researcher positions, please contact me with your CV.<br/>
 
 ---
 
 ## Graduate Programs
-If you are thinking of proceeding to graduate school, we recommend that you apply as an intern at least six months before the graduate school admission process. It is important to carefully select a laboratory because graduate programs can take as short as two years and as long as five years or more. Below is a description of each program.
+If you are thinking of proceeding to graduate school, we recommend that you apply as an intern at least six months before the graduate school admission process.
+It is important to carefully select a laboratory because graduate programs can take as short as two years and as long as five years or more. Below is a description of each program.
 
 > Ph.D./Integrated Program
   - ###### I only accept students who have prior research experience with me or who have received reliable recommendations.

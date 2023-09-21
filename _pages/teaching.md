@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses held by ACSL.
+description: Materials for courses held by MPIL.
 nav: true
 order: 3
 ---
