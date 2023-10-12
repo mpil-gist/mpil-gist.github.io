@@ -13,8 +13,8 @@ Assistant Professor <br/>
 [School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
 [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"} <br/>
 
-[[Google Scholar]](https://scholar.google.co.kr/citations?user=NHpe_8IAAAAJ&hl=en){:target="\_blank"}
-[[CV]](https://drive.google.com/file/d/1PdyTL2bNvK3Xw4IRkcb-V-zJhy-y30_3/view?usp=sharing){:target="\_blank"}
+[[Google Scholar](https://scholar.google.co.kr/citations?user=NHpe_8IAAAAJ&hl=en){:target="\_blank"}]
+[[CV](https://drive.google.com/file/d/1PdyTL2bNvK3Xw4IRkcb-V-zJhy-y30_3/view?usp=sharing){:target="\_blank"}]
 
 <br/>
 
