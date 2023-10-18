@@ -3,8 +3,10 @@
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
 
-      <img style="height: 55px; width: auto;" src="{{ 'mpil_logo_full_name.png' | prepend: '/assets/img/' | relative_url }}">
-      
+      <a href="{{ site.baseurl | prepend: site.url }}/">
+        <img style="height: 55px; width: auto;" src="{{ 'mpil-gist_logo_full_name.png' | prepend: '/assets/img/' | relative_url }}">
+      </a>
+
       <!--
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
         {% if site.title == "blank" %}<span class="font-weight-bold" id="main_name">{{ site.first_name }}</span><span id="head_name"></span>{% else %}{{ site.title }}{% endif %}
