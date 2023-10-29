@@ -46,7 +46,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: AutoCompSysLab # your GitHub user name
+github_username: PyojinKim # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -100,6 +100,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 news_limit: 10
 
@@ -192,6 +195,8 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            false  # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories                              
 enable_people_categories:   true   # enables categorization of people into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
