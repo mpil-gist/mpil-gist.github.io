@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Album
+permalink: /album/
+description: Photo gallery of MPILers! :)
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+order: 4
+display_categories: [Campus, Conference]
 horizontal: false
 ---
 
