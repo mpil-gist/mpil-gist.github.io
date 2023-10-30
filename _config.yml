@@ -100,9 +100,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-  album:
+  projects:
     output: true
-    permalink: /album/:path/
+    permalink: /projects/:path/
 
 news_limit: 10
 
