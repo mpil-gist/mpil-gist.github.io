@@ -1,0 +1,81 @@
+
+- selector: research
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/slider/2023_ral_astrobee_slider.png
+    - src: /assets/slider/2023_ral_linear_slider.png
+    - src: /assets/slider/2023_tits_scale_slider.png
+    - src: /assets/slider/2023_tpami_hong_slider.png
+    - src: /assets/slider/2022_icra_single_slider.png
+    - src: /assets/slider/2022_tpami_linear_slider.png
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval: 3000
+    transitionDuration: 1000
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: Minimum required attributes
+    - data-src: /img/2.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+      alt: Use data-src-2x for HiDPI devices
+    - src: /img/4.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true

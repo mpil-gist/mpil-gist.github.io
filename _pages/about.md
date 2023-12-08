@@ -3,19 +3,15 @@ layout: about
 title: about
 permalink: /
 description: 
-
-profile:
-  align: right
-  image: research.gif
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+image_sliders:
+  - research
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+{% include slider.html selector="research" %}
 
 **Welcome to MPIL!** MPIL is located at S1-215, [School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, South Korea.
 
