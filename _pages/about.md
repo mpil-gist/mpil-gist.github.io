@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-description: 
 image_sliders:
   - research
 

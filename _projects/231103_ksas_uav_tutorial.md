@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAV Short Course 2023
+title: UAV Tutorial
 description: Short Course on UAV Tech. (KSAS) 2023, Seoul, South Korea
 img: assets/album/231103_ksas_uav_tutorial/thumbnail.jpg
 importance: 231103
