@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Open Positions (ENG)
-date:   2023-09-21
+date:   2023-12-12
 description: Information for Joining MPIL at GIST
 ---
 

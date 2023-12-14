@@ -25,7 +25,11 @@ Our primary research lines are the following:
 4. ***Deep Learning for Visual Navigation***
 
 
-For more details, refer to our <br/>
-- advising statement ([한국어](blog/2023/advising-kor/))
-- open positions ([한국어](blog/2023/open-positions-kor/), [English](blog/2023/open-positions-eng/))
+I am always looking for passionate and self-motivated students to join my group.
+Please reach out to me via email if you are interested in.
+For more details, please refer to the following: <br/>
+- [MPIL Information for Prospective Students (in Korean)](blog/2023/mpil-info-kor/)
+- [MPIL Information for International Students (in English)](blog/2023/mpil-info-eng/)
+
+<!-- - open positions ([한국어](blog/2023/open-positions-kor/), [English](blog/2023/open-positions-eng/)) -->
 <!-- - research statement ([English](blog/2021/research-eng/)) -->
