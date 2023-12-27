@@ -21,6 +21,7 @@ order: 1
     </div>
     {% endfor %}
     <h2 class="category">Alumni</h2>
+     <h5>Graduate Students</h5>
       <ul>
         <li>Hyunjin Kim (M.S., 2021-2023)</li>
         <li>Eunju Jeong (M.S., 2022-2023) → currently at Koh Young Technology</li>

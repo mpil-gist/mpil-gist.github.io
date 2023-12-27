@@ -6,6 +6,6 @@ email: whdmstj814@gmail.com
 img: /assets/img/student_220818_Eunseo_Cho.jpg
 sequence: 9_220818
 redirect: # personal page
-category: Students
+category: Alumni
 no_detail: true
 ---
