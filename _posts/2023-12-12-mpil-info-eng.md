@@ -5,7 +5,7 @@ date:   2023-12-12
 description: Information for Joining MPIL at GIST
 ---
 
-This article covers information that will help you join our lab.
+This article covers information that will help you join our lab!
 If you are interested in our lab, please refer to the article below and contact me via e-mail.
 Questions beyond the information provided in this article are always welcome.
 
