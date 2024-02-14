@@ -147,6 +147,9 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
+          {%- if entry.project_page %}
+            [<a href="{{ entry.project_page }}" target="\_blank">Project Page</a>]
+          {%- endif %}
           {%- if entry.pdf %}
             [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="\_blank">PDF</a>]
           {%- endif %}
