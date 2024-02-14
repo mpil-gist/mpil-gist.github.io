@@ -150,8 +150,8 @@
           {%- if entry.project_page %}
             [<a href="{{ entry.project_page }}" target="\_blank">Project Page</a>]
           {%- endif %}
-          {%- if entry.pdf %}
-            [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="\_blank">PDF</a>]
+          {%- if entry.paper %}
+            [<a href="{{ entry.paper | prepend: '/assets/paper/' | relative_url }}" target="\_blank">Paper</a>]
           {%- endif %}
           {%- if entry.website %}
             [<a href="{{ entry.website }}" target="\_blank">Website</a>]
@@ -173,7 +173,7 @@
             [<a href="{{ entry.code }}" target="\_blank">Code</a>]
           {%- endif %}
           {%- if entry.poster %}
-            [<a href="{{ entry.pdf | prepend: '/assets/poster/' | relative_url }}" target="\_blank">Poster</a>]
+            [<a href="{{ entry.poster | prepend: '/assets/poster/' | relative_url }}" target="\_blank">Poster</a>]
           {%- endif %}
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
