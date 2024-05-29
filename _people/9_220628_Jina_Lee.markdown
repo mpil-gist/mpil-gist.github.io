@@ -5,7 +5,7 @@ role: Research Intern
 email: jinaleeci@sookmyung.ac.kr
 img: /assets/img/student_220628_Jina_Lee.jpg
 sequence: 9_220628
-redirect: # personal page
+redirect: https://jinalee-mech.github.io/
 category: Students
 no_detail: true
 ---
