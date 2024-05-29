@@ -10,8 +10,8 @@ category: Faculty
 ---
 
 Assistant Professor <br/>
-[School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
-[Gwangju Institute of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"} <br/>
+[School of Mechanical and Robotics Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
+[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/){:target="\_blank"} <br/>
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=NHpe_8IAAAAJ&hl=en){:target="\_blank"}]
 [[CV](https://drive.google.com/file/d/1PdyTL2bNvK3Xw4IRkcb-V-zJhy-y30_3/view?usp=sharing){:target="\_blank"}]
@@ -53,6 +53,7 @@ Assistant Professor <br/>
   - Associate Editor, IJCAS
   - Associate Editor, ICRA 2022, 2023, 2024
   - Publicity Chair, ICCAS 2024
+  - Invited Session Chair, IFAC 2026
 
 
 <br/>
