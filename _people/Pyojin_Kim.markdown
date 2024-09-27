@@ -39,6 +39,8 @@ Assistant Professor <br/>
 
 <br/>
 ## Selected Honors
+- New Generation Star Project by NOKOV, IEEE IROS, 2024.
+- Outstanding Young Researcher Award, ICROS, 2024.
 - Outstanding Young Researcher Award, IEEE ICCAS, 2023.
 - Outstanding Poster Presentation Award, IEEE ICCAS, 2022.
 - 15-th KAI Aerospace Paper Award, Korea Aerospace Industries (KAI), 2018.
@@ -49,11 +51,11 @@ Assistant Professor <br/>
 <br/>
 ## Selected Service
 - Program Committee
+  - Associate Editor, ICRA 2022, 2023, 2024, 2025
   - Associate Editor, UR 2024
   - Associate Editor, IJCAS
-  - Associate Editor, ICRA 2022, 2023, 2024
-  - Publicity Chair, ICCAS 2024
   - Invited Session Chair, IFAC 2026
+  - Publicity Chair, ICCAS 2024
 
 
 <br/>

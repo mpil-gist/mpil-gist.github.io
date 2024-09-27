@@ -4,4 +4,4 @@ date: 2023-10-15 00:00:00-0400
 inline: true
 ---
 
-Jungil joined MPIL. Welcome! :)
+Jungil joins MPIL. Welcome! :)

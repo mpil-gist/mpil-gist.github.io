@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2024-12-23 00:00:00-0400
+inline: true
+---
+
+Minji starts a research internship at [NUS Temasek Laboratories](https://temasek-labs.nus.edu.sg/){:target="\_blank"} this fall, thanks to [GIST-IREF](https://me.gist.ac.kr/prog/bbsArticle/BBSMSTR_000000000334/B000000083361Xj3uX0i/view.do){:target="\_blank"}.
