@@ -24,6 +24,8 @@ Our primary research lines are the following:
 3. ***Visual-Inertial Odometry with Sensor Fusion***
 4. ***Deep Learning for Visual Navigation***
 
+You can follow us on [Youtube](https://www.youtube.com/@gist-mpil/videos){:target="\_blank"} or click the Publications tab to find out details of our research.
+
 
 I am always looking for passionate and self-motivated students to join my group.
 Please reach out to me via email if you are interested in.
