@@ -6,8 +6,8 @@
     - src: /assets/slider/2024_ral_san_slider.png
     - src: /assets/slider/2024_ral_astrobee_slider.png
     - src: /assets/slider/2023_ral_linear_slider.png
-    - src: /assets/slider/2023_tits_scale_slider.png
     - src: /assets/slider/2023_tpami_hong_slider.png
+    - src: /assets/slider/2023_tits_scale_slider.png
     - src: /assets/slider/2022_icra_single_slider.png
     - src: /assets/slider/2022_tpami_linear_slider.png
   settings:
