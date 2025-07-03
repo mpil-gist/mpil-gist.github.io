@@ -10,7 +10,8 @@ category: Faculty
 ---
 
 Assistant Professor <br/>
-[School of Mechanical and Robotics Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
+[Department of Mechanical and Robotics Engineering](https://me.gist.ac.kr){:target="\_blank"} <br/>
+[Department of AI Convergence](https://ai.gist.ac.kr/ai/){:target="\_blank"} <br/>
 [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/){:target="\_blank"} <br/>
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=NHpe_8IAAAAJ&hl=en){:target="\_blank"}]
@@ -39,6 +40,7 @@ Assistant Professor <br/>
 
 <br/>
 ## Selected Honors
+- Outstanding Associate Editor, IEEE ICRA, 2025.
 - New Generation Star Project by NOKOV, IEEE IROS, 2024.
 - Outstanding Young Researcher Award, ICROS, 2024.
 - Outstanding Young Researcher Award, IEEE ICCAS, 2023.

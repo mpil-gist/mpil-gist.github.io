@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 
 {% include slider.html selector="research" %}
 
-**Welcome to MPIL!** MPIL is located at S1-215, [School of Mechanical Engineering](https://me.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, South Korea.
+**Welcome to MPIL!** Machine Perception and Intelligence Lab. (MPIL) is located at S1-215, [Department of Mechanical and Robotics Engineering](https://me.gist.ac.kr){:target="\_blank"} and [Department of AI Convergence](https://ai.gist.ac.kr/ai/){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju 61005, South Korea.
 
 
 Our research and education mainly focus on 3D computer vision with a particular focus on geometric aspects.
