@@ -4,8 +4,8 @@ name: Junseo Min
 role: Research Intern
 email: minjs4562@gmail.com
 img: /assets/img/student_240716_Junseo_Min.png
-sequence: 9_240716
+sequence: 9_250711
 redirect: # personal page
-category: Alumni
+category: Students
 no_detail: true
 ---

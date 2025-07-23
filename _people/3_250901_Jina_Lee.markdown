@@ -1,10 +1,10 @@
 ---
 layout: people
 name: Jina Lee
-role: Research Intern
-email: jinaleeci@sookmyung.ac.kr
+role: Master Course
+email: jinaleeci@gmail.com
 img: /assets/img/student_220628_Jina_Lee.jpg
-sequence: 9_220628
+sequence: 3_250901
 redirect: https://jinalee-mech.github.io/
 category: Students
 no_detail: true
