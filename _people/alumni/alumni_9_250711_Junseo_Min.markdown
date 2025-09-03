@@ -6,6 +6,6 @@ email: minjs4562@gmail.com
 img: /assets/img/student_240716_Junseo_Min.png
 sequence: 9_250711
 redirect: # personal page
-category: Students
+category: Alumni
 no_detail: true
 ---
