@@ -5,7 +5,7 @@ role: Research Intern
 email: sjb010409@gm.gist.ac.kr
 img: /assets/img/student_250106_Jeongbin_Sohn.png
 sequence: 9_250106
-redirect: # personal page
+redirect: https://caesar0409.github.io/
 category: Students
 no_detail: true
 ---
