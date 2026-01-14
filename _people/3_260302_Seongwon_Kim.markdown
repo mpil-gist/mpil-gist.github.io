@@ -1,10 +1,10 @@
 ---
 layout: people
 name: Seongwon Kim
-role: Research Intern
+role: Master Course
 email: seongwon0111@gm.gist.ac.kr
 img: /assets/img/student_230930_Seongwon_Kim.jpg
-sequence: 9_230930
+sequence: 3_260302
 redirect: # personal page
 category: Students
 no_detail: true
