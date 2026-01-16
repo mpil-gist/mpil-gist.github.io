@@ -53,12 +53,13 @@ Assistant Professor <br/>
 <br/>
 ## Selected Service
 - Program Committee
-  - Associate Editor, IROS 2025
-  - Associate Editor, ICRA 2022, 2023, 2024, 2025
+  - Associate Editor, IEEE IROS 2025, 2026
+  - Associate Editor, IEEE ICRA 2022, 2023, 2024, 2025, 2026
   - Associate Editor, UR 2024, 2025
+  - Associate Editor, IEEE RA-L (Localization and Mapping)
   - Associate Editor, IJCAS
   - Invited Session Chair, IFAC 2026
-  - Publicity Chair, ICCAS 2024
+  - Publicity Chair, ICCAS 2024, 2025
 
 
 <br/>
