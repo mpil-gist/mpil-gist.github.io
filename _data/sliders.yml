@@ -3,6 +3,7 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/slider/2026_iros_pi_slider.png
     - src: /assets/slider/2025_ral_somaslam_slider.png
     - src: /assets/slider/2025_iros_splice_slider.png
     - src: /assets/slider/2025_srw_drift_slider.png
