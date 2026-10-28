@@ -3,16 +3,13 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/slider/2026_nips_why_slider.png
     - src: /assets/slider/2026_iros_pi_slider.png
     - src: /assets/slider/2025_ral_somaslam_slider.png
     - src: /assets/slider/2025_iros_splice_slider.png
-    - src: /assets/slider/2025_srw_drift_slider.png
     - src: /assets/slider/2024_ral_san_slider.png
     - src: /assets/slider/2024_ral_astrobee_slider.png
-    - src: /assets/slider/2023_ral_linear_slider.png
     - src: /assets/slider/2023_tpami_hong_slider.png
-    - src: /assets/slider/2023_tits_scale_slider.png
-    - src: /assets/slider/2022_icra_single_slider.png
     - src: /assets/slider/2022_tpami_linear_slider.png
   settings:
     height: "'auto'"
