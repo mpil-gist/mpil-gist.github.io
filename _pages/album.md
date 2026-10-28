@@ -5,7 +5,7 @@ permalink: /projects/
 description: Photo gallery of MPILers! :)
 nav: true
 order: 4
-display_categories: [Campus, Conference]
+display_categories: [Conference, Campus]
 horizontal: false
 ---
 
